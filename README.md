@@ -14,13 +14,13 @@ Este é um projeto de API para gestão de empresas, desenvolvido em Python com o
 1. Clone o repositório para sua máquina local:
 
 ```
-git clone https://github.com/Josehpequeno/teste-backEnd-python.git
+git clone https://github.com/marcusvictorpessoa/api_companies.git
 ```
 
 2. Acesse o diretório do projeto:
 
 ```
-cd teste-backEnd-python
+cd api_companies
 ```
 
 3. Crie um ambiente virtual para o projeto:
